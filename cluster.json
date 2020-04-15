@@ -1,0 +1,9 @@
+{
+  "protocol": "https",
+"ip_address": "10.42.11.37",
+  "port": "9440",
+  "creds_bag": {
+    "username": "admin",
+    "password": "Nutanix/1234"
+  }
+}
